@@ -1,6 +1,6 @@
 {
   "description": "A general audio processing workspace",
-  "docker_registry": "https://ghcr.io",
+  "docker_registry": "https://ghcr.io/",
   "image_src": "carla.png",
   "name": "pcs3rd/kasm-pipewire-plugin-host:latest",
   "run_config": {
