@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
+    name: 'PCS3RD',
     description: 'Pcs3rd`s kasm registry',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://pcs3rd.github.io/kasm-workspace-repository/1.0/',
+    contactUrl: '',
   },
   reactStrictMode: true,
   swcMinify: true,
