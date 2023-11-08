@@ -1,0 +1,27 @@
+{
+  "description": "A general audio processing workspace",
+  "docker_registry": "https://ghcr.io",
+  "image_src": "carla.png",
+  "name": "pcs3rd/kasm-pipewire-plugin-host:latest",
+  "run_config": {
+    "hostname": "kasm"
+  },
+  "exec_config": {
+    "start": {
+      "cmd": "bash -c '/dockerstartup/custom_startup.sh"
+    },
+  },
+  "categories": [
+    "Audio"
+  ],
+  "friendly_name": "Plugin Host",
+  "architecture": [
+    "amd64",
+    "arm64"
+  ],
+  "compatibility": [
+    "1.13.x",
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 2170
+}
