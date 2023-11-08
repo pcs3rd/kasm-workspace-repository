@@ -9,7 +9,7 @@
   "exec_config": {
     "start": {
       "cmd": "bash -c '/dockerstartup/custom_startup.sh"
-    },
+    }
   },
   "categories": [
     "Audio"
