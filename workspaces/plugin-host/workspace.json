@@ -16,7 +16,7 @@
   ],
   "friendly_name": "Plugin Host",
   "architecture": [
-    "amd64",
+    "amd64"
   ],
   "compatibility": [
     "1.13.x",
